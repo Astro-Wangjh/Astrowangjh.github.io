@@ -6,9 +6,6 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[You want to pry into my secrets?](./another-page.html).
-
-疯狂暗示（上一行）
 
 # About me
 
