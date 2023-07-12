@@ -3,6 +3,8 @@ layout: default
 ---
 
 你好，美丽的小边琳女士，这是一个粗糙的个人网站，只有一张照片儿
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -11,7 +13,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About me
+
+<div style="float: right;">
+    <img src="me.jpg" alt="Image" width="300" height="200" />
+</div>
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
