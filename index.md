@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://github.com/Astro-Wangjh/Astrowangjh.github.io/blob/main/CSST.jpg)
+![Branching](CSST.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
