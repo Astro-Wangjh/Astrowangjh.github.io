@@ -2,6 +2,7 @@
 layout: default
 ---
 
+你好，美丽的小边琳女士，这是一个粗糙的个人网站，只有一张照片儿
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -98,7 +99,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](CSST.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
