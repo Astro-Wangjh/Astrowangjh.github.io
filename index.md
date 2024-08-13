@@ -41,7 +41,7 @@ Challenge this.
 
 Inferno difficulty~
 
-![Branching](/picture/CSST.jpg)
+![Branching](/picture/CSSTsmall.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
