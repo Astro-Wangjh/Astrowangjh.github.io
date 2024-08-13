@@ -19,7 +19,7 @@ Wang Jiahui is a PhD student in astrophysics who is currently studying at the Na
 
 You can download my CV by clicking the link below:
 
-[Download my CV](cv.pdf)
+[Download my CV](CV.pdf)
 
 
 ### Small image
