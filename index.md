@@ -29,7 +29,7 @@ You can download my CV by clicking the link below:
 ### Large image
 Guess where I am？
 
-![Branching](lamoet.jpg)
+![Branching](/picture/lamoet.jpg)
 
 Let's escalate the difficulty!
 
@@ -37,11 +37,11 @@ Let's escalate the difficulty!
 
 Challenge this.
 
-![Branching](yunnan.jpg)
+![Branching](/picture/yunnan.jpg)
 
 Inferno difficulty~
 
-![Branching](CSST.jpg)
+![Branching](/picture/CSST.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
