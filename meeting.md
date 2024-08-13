@@ -6,12 +6,18 @@ description: This is just another page
 
 ## Welcome to another page
 
-This is my girlfriend. She's shy.
+**2023 4.6-4.7 LAMOST-ET**
 
-![Branching](npy.jpg)
+![Branching](/picture/lamoet.jpg)
 
-This is how she sees me.
+Let's escalate the difficulty!
 
-![Branching](alsome.jpg)
+![Branching](/picture/sitian.jpg)
 
-[back](./)
+Challenge this.
+
+![Branching](/picture/yunnan.jpg)
+
+Inferno difficulty~
+
+![Branching](/picture/CSSTsmall.jpg)
