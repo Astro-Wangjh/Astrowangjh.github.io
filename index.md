@@ -32,6 +32,6 @@ You can download my CV by clicking the link below:
 
 [Some meetings](./meeting.html).
 
-[Useful code](./meeting.html).
+[Useful code](./code.html).
 
 
