@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
     <img src="me.jpg" alt="Image" width="300" height="200" />
 </div>
 
-Wang Jiahui is a PhD student in astrophysics who is currently studying at the National Astronomical Observatory of the Chinese Academy of Sciences(It can also be UCAS).
+Wang Jiahui (王家辉) is a PhD student in astrophysics who is currently studying at the National Astronomical Observatory of the Chinese Academy of Sciences(It can also be UCAS).
 
 ## Download my CV
 
