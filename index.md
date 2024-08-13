@@ -26,22 +26,6 @@ You can download my CV by clicking the link below:
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-Guess where I am？
-
-![Branching](/picture/lamoet.jpg)
-
-Let's escalate the difficulty!
-
-![Branching](/picture/sitian.jpg)
-
-Challenge this.
-
-![Branching](/picture/yunnan.jpg)
-
-Inferno difficulty~
-
-![Branching](/picture/CSSTsmall.jpg)
 
 
 ## Record & Blog
