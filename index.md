@@ -15,6 +15,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Wang Jiahui is a PhD student in astrophysics who is currently studying at the National Astronomical Observatory of the Chinese Academy of Sciences(It can also be UCAS).
 
+## Download my CV
+
+You can download my CV by clicking the link below:
+
+[Download my CV](cv.pdf)
+
+
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
