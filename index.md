@@ -33,7 +33,7 @@ Guess where I am？
 
 Let's escalate the difficulty!
 
-![Branching](picture/sitian.jpg)
+![Branching](/picture/sitian.jpg)
 
 Challenge this.
 
