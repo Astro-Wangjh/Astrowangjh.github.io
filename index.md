@@ -3,10 +3,6 @@ layout: default
 ---
 
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-
 # About me
 
 <div style="float: right;">
@@ -27,11 +23,6 @@ You can download my CV by clicking the link below:
 [Download my CV](CV.pdf)
 
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
 
 ## Record & Blog
 
@@ -41,16 +32,6 @@ You can download my CV by clicking the link below:
 [Some meetings](./meeting.html).
 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
