@@ -44,10 +44,10 @@ Inferno difficulty~
 ![Branching](/picture/CSSTsmall.jpg)
 
 
-### Definition lists can be used with HTML syntax.
+## Record & Blog
 
 
-[You want to pry into my secrets?](./another-page.html).
+[My personal life](./another-page.html).
 
 
 <dl>
