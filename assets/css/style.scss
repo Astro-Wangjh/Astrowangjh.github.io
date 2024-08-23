@@ -1,21 +1,7 @@
 ---
 ---
 
-//@import 'jekyll-theme-cayman';
+@import 'jekyll-theme-cayman';
 
 
-
-body {
-  background-image: url('me.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
-.content {
-  background-color: rgba(255, 255, 255, 0.8); /* 可选：添加一个半透明的白色背景以提高内容的可读性 */
-  padding: 20px;
-  border-radius: 10px;
-}
-
-@import "{{ site.theme }}";
+//@import "{{ site.theme }}";
