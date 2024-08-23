@@ -10,7 +10,7 @@ title: Jiahui Wang
     <img src="me.jpg" alt="Image" width="300" height="200" />
 </div>
 
-Jiahui Wang (王家辉) is a PhD student in astrophysics who is currently studying at the National Astronomical Observatory of the Chinese Academy of Sciences(It can also be UCAS).
+Jiahui Wang (王家辉) is an Astrophysics PhD student at the National Astronomical Observatory，CAS(NAOC & UCAS). He received his bachelor's degree in Astronomy from Sun Yat-sen University. His research interests are currently focused on the Milky Way, including Galactic archaeology, stellar parameter measurements and planetary engulfment events. 
 
 <dl>
 <dt>Email</dt>
