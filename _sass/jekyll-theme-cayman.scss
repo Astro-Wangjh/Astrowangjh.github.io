@@ -114,6 +114,7 @@ a {
   background-image: url('https://raw.githubusercontent.com/Astro-Wangjh/Astrowangjh.github.io/main/MW.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 
   @include large {
     padding: 5rem 6rem;
