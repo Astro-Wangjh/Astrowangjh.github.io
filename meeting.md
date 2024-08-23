@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Meetings
+description: More meetings, more friends~
 ---
 ## 2024
 **2024 8.14-8.15 mini-workshop, NAOC，Beijing**
