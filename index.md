@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jiahui Wang
+description: An astronomer, a traveller, a thinker.
 ---
 
 
