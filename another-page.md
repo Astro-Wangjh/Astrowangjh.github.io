@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: My life
+description: Why do you want to see these?
 ---
 
-## Welcome to another page
+## You see see you ...
 
 This is my girlfriend. She's shy.
 
