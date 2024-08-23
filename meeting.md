@@ -5,9 +5,11 @@ description: This is just another page
 ---
 ## 2024
 **2024 8.14-8.15 mini-workshop, NAOC，Beijing**
+
 ![Branching](/picture/para.jpg)
 
 **2024 1.29-2.1 Workshop on Dense Objects, Yanqi Lake，Beijing**
+
 ![Branching](/picture/Dense.jpg)
 
 ## 2023
