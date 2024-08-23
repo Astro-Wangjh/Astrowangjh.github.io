@@ -15,6 +15,8 @@ Jiahui Wang (王家辉) is an Astrophysics PhD student at the National Astronomi
 <dl>
 <dt>Email</dt>
 <dd>wangjh@bao.ac.cn</dd>
+<dt>Address</dt>
+<dd>B712, 20A Datun Road, Chaoyang District, Beijing, China</dd>
 </dl>
 
 ## Download my CV
