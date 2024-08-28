@@ -37,6 +37,6 @@ You can download my CV by clicking the link below:
 
 [Useful code](./code.html).
 
-[My personal life](./another-page.html).
+<!-- [My personal life](./another-page.html). -->
 
 
